@@ -1,1 +1,2 @@
-# My github link (https://github.com/ajith-io)
+# My github link
+[my link](https://github.com/ajith-io)
