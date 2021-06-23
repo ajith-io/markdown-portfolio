@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![Image of github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
 <br>
 
